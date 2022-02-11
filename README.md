@@ -35,8 +35,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
   <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg" alt="Three.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-wordmark.svg" alt="Tailwind" height="50" />
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
 </div>
 
@@ -49,7 +49,8 @@
 <img style="margin: 10px" src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="Express.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
 <img style="margin: 10px" src="https://brandslogos.com/wp-content/uploads/images/sequelize-logo.png" alt="Sequelize" height="50"/>
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/600px-Socket-io.svg.png" alt="Socket.io" height="50"/>
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" height="50"/>
+  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" height="50">
 <img style="margin: 10px" src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" alt="JWT" height="50"/>
 <img style="margin: 10px" src="https://cybersensor.files.wordpress.com/2018/08/bcrypt-logo.jpg?w=605" alt="BCrypt" height="50">
 </div>
@@ -63,7 +64,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" />
 <img style="margin: 10px" src="https://howtodoinjava.com/wp-content/uploads/2016/07/Jasmine-Logo.png" alt="Jasmine" height="50"/>
-<img style="margin: 10px" src="https://education.ti.com/-/media/ti/education/images/products/product-details/hero/solutions-lua-scripting-hero.png?rev=fc15672b-beab-44cc-91ac-d72f6ae511b5&h=320&w=420&la=en&hash=8D6D6E3377BFBC94B7E107EA6DADBB03DE674B6E" alt="Lua" height="50">
 </div>
 
 </td></tr></table>
@@ -75,7 +75,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jackie-ng303/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://cdn.worldvectorlogo.com/logos/linkedin.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 </div>
