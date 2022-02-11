@@ -82,13 +82,13 @@
 
 <br/>
 
-<details><summary> Github Stats </summary><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jackie-ng&show_icons=true&count_private=true&hide_border=true&theme=gotham" align="center" /></div>
+<details><summary> Github Stats </summary><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jackie-ng&show_icons=true&count_private=true&hide_border=true&theme=cobalt " align="center" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackie-ng&hide_border=true&count_private=true&layout=compact&theme=gotham&langs_count=5" align="center" /></div></details>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackie-ng&hide_border=true&count_private=true&layout=compact&theme=cobalt &langs_count=5" align="center" /></div></details>
 
 <br/>
 
-<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=d0wblxovw6jzkowl21do8ob0w&cover_image=true&theme=default" /></div> -->
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=d0wblxovw6jzkowl21do8ob0w&cover_image=true&theme=cobalt" /></div> -->
 
 <br/>
 
