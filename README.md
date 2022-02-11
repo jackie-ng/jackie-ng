@@ -75,7 +75,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jackie-ng303/" target="_blank">
-<img src=https://cdn.worldvectorlogo.com/logos/linkedin.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="50"/>
+<img src=https://cdn.worldvectorlogo.com/logos/linkedin.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="25"/>
 </a>
 
 </div>
