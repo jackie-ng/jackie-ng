@@ -16,7 +16,7 @@
  
 - ❓ Ask me about anything! I'd love to hear from you.
 
-- ⚡️ Fun fact: I love coffee and dogs so much 
+- ⚡️ Fun fact: I'm currently into 3D models
 
 - 📫 How to reach me: trangn2130@gmail.com
 
