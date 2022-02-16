@@ -13,6 +13,8 @@
 
 
 - 🔭 I’m currently working on [Geek Hunt](https://geek-hunt.web.app/).
+
+- 🧐 I'm studying Python.
  
 - ❓ Ask me about anything! I'd love to hear from you.
 
