@@ -10,7 +10,7 @@
 -->
 </div>
 
-![](https://github.com/jackie-ng/jackie-ng/blob/main/trang-nguyen-slide.png)
+![](https://github.com/jackie-ng/jackie-ng/blob/main/banner.gif)
 
 - 🔭 I’m currently working on [Geek Hunt](https://geek-hunt.web.app/).
 
