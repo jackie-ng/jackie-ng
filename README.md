@@ -91,6 +91,7 @@
 <br/>
 
 <!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=d0wblxovw6jzkowl21do8ob0w&cover_image=true&theme=cobalt" /></div> -->
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=chuame&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <br/>
 
