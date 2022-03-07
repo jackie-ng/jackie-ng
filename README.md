@@ -14,13 +14,13 @@
 
 - 🔭 I’m currently working on [Geek Hunt](https://geek-hunt.web.app/).
 
-- 🧐 I'm currently into 3D models
+- 🧐 I'm currently into 3D models and doing a LOT of Leetcode.
  
 - ❓ Ask me about anything! I'd love to hear from you.
 
 - ⚡️ Fun fact: I used to work as a Business Development but unconsciously 
      looked more into data and programming than spreadsheet. 
-     <proud> That's how I started programming. </proud>
+     ✨That's how I started programming.✨
 
 - 📫 How to reach me: trangn2130@gmail.com
 
