@@ -14,11 +14,11 @@
 
 - 🔭 I’m currently working on [Geek Hunt](https://geek-hunt.web.app/).
 
-- 🧐 I'm studying Python.
+- 🧐 I'm currently into 3D models
  
 - ❓ Ask me about anything! I'd love to hear from you.
 
-- ⚡️ Fun fact: I'm currently into 3D models
+- ⚡️ Fun fact: I used to work as a Business Development but unconsciously looked more into data and programming than spreadsheet. That's how I met Software Engineer. 😆
 
 - 📫 How to reach me: trangn2130@gmail.com
 
