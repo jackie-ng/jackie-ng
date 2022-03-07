@@ -20,7 +20,7 @@
 
 - ⚡️ Fun fact: I used to work as a Business Development but unconsciously 
      looked more into data and programming than spreadsheet. 
-     That's how I met Software Engineer. 😆
+     <proud> That's how I started programming. </proud>
 
 - 📫 How to reach me: trangn2130@gmail.com
 
