@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Geek Hunt](https://geek-hunt.web.app/).
 
-- 🧐 I'm currently into 3D models and doing a LOT of Leetcode.
+- 🧐 I'm currently into 3D models and practicing Leetcode problems.
  
 - ❓ Ask me about anything! I'd love to hear from you.
 
