@@ -12,7 +12,7 @@
 
 ![](https://github.com/jackie-ng/jackie-ng/blob/main/banner.gif)
 
-- 🔭 I’m currently working on [Geek Hunt](https://geek-hunt.web.app/).
+- 🔭 I’m currently working on [Divulge](https://github.com/post-fsa-dream-team/divulge) - a publishing platform web-app using a minimal amount of libraries.
 
 - 🧐 I'm currently into 3D models and practicing Leetcode problems.
  
