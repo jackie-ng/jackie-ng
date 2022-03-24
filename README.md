@@ -19,7 +19,7 @@
 - ❓ Ask me about anything! I'd love to hear from you.
 
 - ⚡️ Fun fact: I used to work as a Business Development but unconsciously 
-     looked more into data and programming than spreadsheet. 
+     looked more into **data and programming** than spreadsheet. 
      ✨That's how I started programming.✨
 
 - 📫 How to reach me: trangn2130@gmail.com
