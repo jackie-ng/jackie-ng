@@ -86,15 +86,13 @@
 
 <br/>
 
-<details><summary> Github Stats </summary><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jackie-ng&show_icons=true&count_private=true&hide_border=true&theme=default " align="center" /></div>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackie-ng&hide_border=true&count_private=true&layout=compact&theme=default &langs_count=5" align="center" /></div></details>
+<details><summary> Github Stats </summary><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jackie-ng&show_icons=true&theme=default" align="center"/> 
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackie-ng" /></div></details>
 
 <br/>
 
 <details><summary> Leetcode Stats </summary>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackie-ng" /></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jackie-ng&show_icons=true&theme=default" align="center"/>  
+<div align="center"><img src="https://leetcard.jacoblin.cool/chuame" align="center"/>  
 </div></details>
 <br/> 
 <div align="center">
