@@ -93,8 +93,8 @@
 <br/>
 
 <details><summary> Leetcode Stats </summary>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=d0wblxovw6jzkowl21do8ob0w&cover_image=true&theme=cobalt" /></div>
-<div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=chuame&theme=default" align="center"/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackie-ng" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jackie-ng&show_icons=true&theme=default" align="center"/>  
 </div></details>
 <br/> 
 <div align="center">
