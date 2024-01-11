@@ -12,12 +12,9 @@
 
 ![](https://github.com/jackie-ng/jackie-ng/blob/main/banner.gif)
 
-- 🔭 I’m currently working on [Divulge](https://github.com/post-fsa-dream-team/divulge) - a publishing platform web-app using a minimal amount of libraries.
-
-- 🧐 I'm currently into 3D models and practicing Leetcode problems.
+- 🔭 Projects I'm working on: [Divulge](https://github.com/post-fsa-dream-team/divulge) & [Ticketty](it'sstillasecret.com)
  
 - ❓ Ask me about anything! I'd love to hear from you.
-
 - ⚡️ Fun fact: I used to work as a Business Development but unconsciously 
      looked more into **data and programming** than spreadsheet. 
      ✨That's how I started programming.✨
