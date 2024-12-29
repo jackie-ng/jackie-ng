@@ -12,7 +12,7 @@
 
 ![](https://github.com/jackie-ng/jackie-ng/blob/main/banner.gif)
 
-- 🔭 I'm working on: Building stunning sites and reports for [Manhattan Strategies](https://www.manhattanstrategies.com/)
+- 🔭 I'm working on: Building stunning sites and reports for [Manhattan Strategies](https://www.manhattanstrategies.com/our-work)
  
 - ❓ Ask me about anything! I'd love to hear from you.
 - ⚡️ Fun fact: I'm a part-time amateur chef 👩‍🍳
