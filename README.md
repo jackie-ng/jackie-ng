@@ -73,7 +73,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jackie-ng303/" target="_blank">
-<img src=https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png alt=linkedin style="margin-bottom: 5px;" height="30"/>
+<img src=https://seeklogo.com/images/L/linkedin-logo-F84AF05CFC-seeklogo.com.png alt=linkedin style="margin-bottom: 5px;" height="80"/>
 </a>
 
 </div>
