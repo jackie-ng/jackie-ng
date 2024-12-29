@@ -12,13 +12,10 @@
 
 ![](https://github.com/jackie-ng/jackie-ng/blob/main/banner.gif)
 
-- 🔭 Projects I'm working on: [Divulge](https://github.com/post-fsa-dream-team/divulge) & [Ticketty](it'sstillasecret.com)
+- 🔭 I'm working on: Building stunning sites and reports for [Manhattan Strategies](https://www.manhattanstrategies.com/)
  
 - ❓ Ask me about anything! I'd love to hear from you.
-- ⚡️ Fun fact: I used to work as a Business Development but unconsciously 
-     looked more into **data and programming** than spreadsheet. 
-     ✨That's how I started programming.✨
-
+- ⚡️ Fun fact: I'm a part-time amateur chef 👩‍🍳
 - 📫 How to reach me: trangn2130@gmail.com
 
 <br/>
